@@ -32,31 +32,31 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍ **Developer:** @AbirHasan2005
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @beereshbanakards
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support:** [Join channel](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @BAGURUJOINAGUUKANNADAMOVIES_17
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍ **Developer:** @AbirHasan2005
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** [Clcik Here](https://github.com/kannadamoviesrequestbot/blob/main/README.md)
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @beereshbanakards
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @BAGURUJOINAGUUKANNADAMOVIES_17
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Support :** [Join channel](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17)
 
 Donate Now (coming soon)
 """
 	HOME_TEXT = """
-**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
+**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** ** FileStoreBot**.
 
 **Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button**.
 """
